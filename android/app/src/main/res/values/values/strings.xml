@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">приложение</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="welcome">ДОБРО ПОЖАЛОВАТЬ!</string>
+    <string name="please_enter_your_name">пожалуйста, введите своё имя</string>
+    <string name="name">имя...</string>
+    <string name="start">НАЧАТЬ</string>
+    <string name="image_animal">Image Animal</string>
+    <string name="_0_10">0/10</string>
+    <string name="Check">ПРОВЕРИТЬ</string>
+    <string name="result">РЕЗУЛЬТАТ</string>
+    <string name="congratulations">УРА-УРА ПОЗДРАВЛЯЕМ!!!</string>
+    <string name="image">image</string>
+    <string name="finish">КОНЕЦ</string>
+</resources>
